@@ -33,7 +33,7 @@
 }
 
 .bg-secondary {
-    background-color: #008081 !important;
+    background-color: #000000 !important;
 }
 
 .bg-tertiary {
@@ -188,7 +188,7 @@ button.bg-gray-dark:focus {
 }
 
 .bg-gradient-secondary {
-    background: linear-gradient(87deg, #008081 0, #07b480 100%) !important;
+    background: linear-gradient(87deg, #000000 0, #07b480 100%) !important;
 }
 
 .bg-gradient-success {
@@ -291,7 +291,7 @@ button.section-primary:focus {
 }
 
 .section-secondary {
-    background-color: #008081 !important;
+    background-color: #000000 !important;
 }
 
 a.section-secondary:hover,
@@ -1804,7 +1804,7 @@ button.section-black:focus {
 }
 
 .navbar-secondary {
-    background: #008081;
+    background: #000000;
 }
 
 .navbar-tertiary {
@@ -2462,8 +2462,8 @@ button.section-black:focus {
 
 .alert-secondary {
     color: #ffffff;
-    background-color: #008081;
-    border-color: #008081;
+    background-color: #000000;
+    border-color: #000000;
 }
 
 .alert-secondary hr {
@@ -2947,7 +2947,7 @@ button.section-black:focus {
 }
 
 .btn-outline-secondary {
-    color: #008081;
+    color: #000000;
 }
 
 .btn-inner-icon i:not(.fa) {
@@ -3069,14 +3069,14 @@ button.section-black:focus {
 
 .btn-secondary {
     color: #ffffff;
-    background-color: #008081;
-    border-color: #008081;
+    background-color: #000000;
+    border-color: #000000;
 }
 
 .btn-secondary:hover {
     color: #ffffff;
-    background-color: #008081;
-    border-color: #008081;
+    background-color: #000000;
+    border-color: #000000;
 }
 
 .btn-secondary:focus,
@@ -3087,16 +3087,16 @@ button.section-black:focus {
 .btn-secondary.disabled,
 .btn-secondary:disabled {
     color: #ffffff;
-    background-color: #008081;
-    border-color: #008081;
+    background-color: #000000;
+    border-color: #000000;
 }
 
 .btn-secondary:not(:disabled):not(.disabled):active,
 .btn-secondary:not(:disabled):not(.disabled).active,
 .show>.btn-secondary.dropdown-toggle {
     color: #ffffff;
-    background-color: #008081;
-    border-color: #008081;
+    background-color: #000000;
+    border-color: #000000;
 }
 
 .btn-secondary:not(:disabled):not(.disabled):active:focus,
@@ -3956,7 +3956,7 @@ button.section-black:focus {
 }
 
 .card-secondary .card-header {
-    background: #008081;
+    background: #000000;
     color: white;
 }
 
@@ -5068,7 +5068,7 @@ textarea[resize="horizontal"] {
 
 .language-html {
     color: white;
-    background: #008081;
+    background: #000000;
 }
 
 
@@ -5140,7 +5140,7 @@ textarea[resize="horizontal"] {
 }
 
 .modal-secondary .modal-content {
-    background-color: #008081;
+    background-color: #000000;
     color: #ffffff;
 }
 
@@ -5770,11 +5770,11 @@ textarea[resize="horizontal"] {
 }
 
 .popover-secondary {
-    background-color: #008081;
+    background-color: #000000;
 }
 
 .popover-secondary .popover-header {
-    background-color: #008081;
+    background-color: #000000;
     color: #ffffff;
 }
 
@@ -5788,22 +5788,22 @@ textarea[resize="horizontal"] {
 
 .popover-secondary.bs-popover-top .arrow::after,
 .popover-secondary.bs-popover-auto[x-placement^="top"] .arrow::after {
-    border-top-color: #008081;
+    border-top-color: #000000;
 }
 
 .popover-secondary.bs-popover-right .arrow::after,
 .popover-secondary.bs-popover-auto[x-placement^="right"] .arrow::after {
-    border-right-color: #008081;
+    border-right-color: #000000;
 }
 
 .popover-secondary.bs-popover-bottom .arrow::after,
 .popover-secondary.bs-popover-auto[x-placement^="bottom"] .arrow::after {
-    border-bottom-color: #008081;
+    border-bottom-color: #000000;
 }
 
 .popover-secondary.bs-popover-left .arrow::after,
 .popover-secondary.bs-popover-auto[x-placement^="left"] .arrow::after {
-    border-left-color: #008081;
+    border-left-color: #000000;
 }
 
 .popover-success {
@@ -6687,7 +6687,7 @@ textarea[resize="horizontal"] {
 }
 
 .progress-info .bg-secondary::after {
-    border-top-color: #008081;
+    border-top-color: #000000;
 }
 
 .progress-info .bg-success::after {
@@ -6819,11 +6819,11 @@ textarea[resize="horizontal"] {
 }
 
 .fill-secondary {
-    fill: #008081;
+    fill: #000000;
 }
 
 .stroke-secondary {
-    stroke: #008081;
+    stroke: #000000;
 }
 
 .fill-success {
@@ -7227,7 +7227,7 @@ a:hover,
 
 .text-secondary,
 .text-secondary:hover {
-    color: #008081 !important;
+    color: #000000 !important;
 }
 
 .text-secondary a:not(.btn),
@@ -7247,7 +7247,7 @@ a:hover,
 .text-secondary .display-2,
 .text-secondary .display-3,
 .text-secondary .display-4 {
-    color: #008081;
+    color: #000000;
 }
 
 .text-secondary .text-muted {
