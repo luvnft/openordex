@@ -37,7 +37,7 @@
 }
 
 .bg-tertiary {
-    background-color: #000181 !important;
+    background-color: #F7931A !important;
 }
 
 .bg-blue {
@@ -220,7 +220,7 @@ button.bg-gray-dark:focus {
 }
 
 .bg-gradient-tertiary {
-    background: linear-gradient(87deg, #000181 0, #000181 100%) !important;
+    background: linear-gradient(87deg, #F7931A 0, #F7931A 100%) !important;
 }
 
 .bg-gradient-white {
@@ -1808,7 +1808,7 @@ button.section-black:focus {
 }
 
 .navbar-tertiary {
-    background: #000181;
+    background: #F7931A;
 }
 
 .navbar-footer {
@@ -2574,8 +2574,8 @@ button.section-black:focus {
 
 .alert-tertiary {
     color: #ffffff;
-    background-color: #000181;
-    border-color: #000181;
+    background-color: #F7931A;
+    border-color: #F7931A;
 }
 
 .alert-tertiary hr {
@@ -2818,7 +2818,7 @@ button.section-black:focus {
     right: -20px;
     padding: 5px 20px;
     top: -46px;
-    background: #000181;
+    background: #F7931A;
     border-radius: 0.125rem;
     box-shadow: 0 0.125rem 0.25rem rgba(42, 53, 79, 0.07);
 }
@@ -3370,14 +3370,14 @@ button.section-black:focus {
 
 .btn-tertiary {
     color: #ffffff;
-    background-color: #000181;
-    border-color: #000181;
+    background-color: #F7931A;
+    border-color: #F7931A;
 }
 
 .btn-tertiary:hover {
     color: #ffffff;
-    background-color: #000181;
-    border-color: #000181;
+    background-color: #F7931A;
+    border-color: #F7931A;
 }
 
 .btn-tertiary:focus,
@@ -3388,16 +3388,16 @@ button.section-black:focus {
 .btn-tertiary.disabled,
 .btn-tertiary:disabled {
     color: #ffffff;
-    background-color: #000181;
-    border-color: #000181;
+    background-color: #F7931A;
+    border-color: #F7931A;
 }
 
 .btn-tertiary:not(:disabled):not(.disabled):active,
 .btn-tertiary:not(:disabled):not(.disabled).active,
 .show>.btn-tertiary.dropdown-toggle {
     color: #ffffff;
-    background-color: #000181;
-    border-color: #000181;
+    background-color: #F7931A;
+    border-color: #F7931A;
 }
 
 .btn-tertiary:not(:disabled):not(.disabled):active:focus,
@@ -3961,7 +3961,7 @@ button.section-black:focus {
 }
 
 .card-tertiary .card-header {
-    background: #000181;
+    background: #F7931A;
     color: white;
 }
 
@@ -5316,7 +5316,7 @@ textarea[resize="horizontal"] {
 }
 
 .modal-tertiary .modal-content {
-    background-color: #000181;
+    background-color: #F7931A;
     color: #ffffff;
 }
 
@@ -6066,11 +6066,11 @@ textarea[resize="horizontal"] {
 }
 
 .popover-tertiary {
-    background-color: #000181;
+    background-color: #F7931A;
 }
 
 .popover-tertiary .popover-header {
-    background-color: #000181;
+    background-color: #F7931A;
     color: #ffffff;
 }
 
@@ -6084,22 +6084,22 @@ textarea[resize="horizontal"] {
 
 .popover-tertiary.bs-popover-top .arrow::after,
 .popover-tertiary.bs-popover-auto[x-placement^="top"] .arrow::after {
-    border-top-color: #000181;
+    border-top-color: #F7931A;
 }
 
 .popover-tertiary.bs-popover-right .arrow::after,
 .popover-tertiary.bs-popover-auto[x-placement^="right"] .arrow::after {
-    border-right-color: #000181;
+    border-right-color: #F7931A;
 }
 
 .popover-tertiary.bs-popover-bottom .arrow::after,
 .popover-tertiary.bs-popover-auto[x-placement^="bottom"] .arrow::after {
-    border-bottom-color: #000181;
+    border-bottom-color: #F7931A;
 }
 
 .popover-tertiary.bs-popover-left .arrow::after,
 .popover-tertiary.bs-popover-auto[x-placement^="left"] .arrow::after {
-    border-left-color: #000181;
+    border-left-color: #F7931A;
 }
 
 .popover-white {
@@ -6719,7 +6719,7 @@ textarea[resize="horizontal"] {
 }
 
 .progress-info .bg-tertiary::after {
-    border-top-color: #000181;
+    border-top-color: #F7931A;
 }
 
 .progress-info .bg-white::after {
@@ -6883,11 +6883,11 @@ textarea[resize="horizontal"] {
 }
 
 .fill-tertiary {
-    fill: #000181;
+    fill: #F7931A;
 }
 
 .stroke-tertiary {
-    stroke: #000181;
+    stroke: #F7931A;
 }
 
 .fill-white {
@@ -7081,13 +7081,13 @@ ul li {
 
 a,
 .text-action {
-    color: #000181;
+    color: #F7931A;
     font-weight: 400;
 }
 
 a:hover,
 .text-action:hover {
-    color: #000181;
+    color: #F7931A;
     cursor: pointer;
 }
 
@@ -7459,7 +7459,7 @@ a:hover,
 
 .text-tertiary,
 .text-tertiary:hover {
-    color: #000181 !important;
+    color: #F7931A !important;
 }
 
 .text-tertiary a:not(.btn),
@@ -7479,7 +7479,7 @@ a:hover,
 .text-tertiary .display-2,
 .text-tertiary .display-3,
 .text-tertiary .display-4 {
-    color: #000181;
+    color: #F7931A;
 }
 
 .text-tertiary .text-muted {
